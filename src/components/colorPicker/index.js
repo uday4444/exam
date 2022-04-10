@@ -4,6 +4,7 @@ const classNames = require('classnames');
 
 export default class ColorPicker extends Component {
   var x =6;
+  var y =8;
   render() {
     let selectedColor;
     return (
