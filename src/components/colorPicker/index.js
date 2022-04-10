@@ -3,7 +3,7 @@ import "./index.css";
 const classNames = require('classnames');
 
 export default class ColorPicker extends Component {
-
+  var x =6;
   render() {
     let selectedColor;
     return (
